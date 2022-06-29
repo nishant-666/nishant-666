@@ -5,3 +5,5 @@
 ![](https://komarev.com/ghpvc/?username=nishant-666)
 
 [![Nishant's Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=nishant-666)](https://github.com/nishant-666/readme.md)
+
+stats.herokuapp.com/?user=nishant-666&theme=react
